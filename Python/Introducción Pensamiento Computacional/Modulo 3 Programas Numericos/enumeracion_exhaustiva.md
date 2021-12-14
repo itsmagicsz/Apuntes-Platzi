@@ -1,0 +1,5 @@
+Este es el famoso metodo llamado “Fuerza Bruta”, es el peor algorithmo de todos, aunque el tiene razon al decir que las computadoras tienen un gran poder de computo, imagina si tienes que hacer esa consulta miles de veces en un minuto, ahi es donde en CS, se mira la manera de utilizar mejores algoritmos para mejorar los tiempos y recursos del sistema, basado en parametros de “Time Complexity” y “Space Complexity”
+
+
+En seguridad informática, existe un tipo de ataque llamado de “fuerza bruta”, en el que un atacante trata de ingresar a un sistema probando TODAS las contraseñas posibles hasta que logra ingresar al sistema. Prácticamente es un algoritmo de enumeración exhaustiva en todo su esplendor.
+Por eso muchos sitios implementaron medidas de seguridad para cuando alguien trata muchas veces de logearse con un mismo usuario.
