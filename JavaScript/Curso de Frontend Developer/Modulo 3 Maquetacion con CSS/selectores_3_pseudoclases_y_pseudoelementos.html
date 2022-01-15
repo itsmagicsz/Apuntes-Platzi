@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            color: chartreuse;
+        }
+        p::first-letter{
+            color: darkred;
+        }
+        p:last-child {
+            font-size: 5em;
+        }
+        p::before{
+            content: "😍";
+        }
+        p::after{
+            content: "🐱‍🐉✨🎂";
+        }
+        p:hover{
+            color: cyan;
+        }
+        div p:nth-child(2){
+            color: darkmagenta;
+        }
+        ::placeholder{
+            color: deeppink;
+        }
+
+        input:focus::-webkit-input-placeholder {
+            color: rgb(145, 255, 0);
+        }
+    </style>
+</head>
+<body>
+    <p>Hola</p>
+    <div>
+        <p>HOLOOO</p>
+        <p>CLAN</p>
+        <P>bcbcbc</P>
+    </div>
+    <input type="text" placeholder="name">
+</body>
+</html>
