@@ -8,7 +8,7 @@ Escalable: que pueda crecer fácilmente sin afectar el rendimiento.
 .
 Estos objetivos se deben ver reflejadas en buenas practicas que debe conocer todo el equipo involucrado en el proyecto como:
 
-Establecer reglas
+Establecer reglas   
 Explicar la estructura base
 Establecer estándares de codificación
 Evitar largas hojas de estilo
